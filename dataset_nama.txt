@@ -1,0 +1,11 @@
+laptop
+mouse
+keyboard
+kursi
+meja
+botol
+gadget
+televisi
+kabel
+jam
+ac
